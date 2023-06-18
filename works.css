@@ -1,0 +1,28 @@
+.image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.gallery-item {
+    width: 30%;
+    margin-bottom: 30px;
+}
+
+.gallery-item img {
+    width: 100%;
+    height: auto;
+}
+
+.intro {
+    background-color: #FFC0CB;
+    /* light pink background */
+    padding: 20px;
+    /* add padding to the content */
+    text-align: center;
+    /* center align the content */
+    font-size: 24px;
+    /* increase the font size for emphasis */
+    font-weight: bold;
+    /* add bold font weight for emphasis */
+}

@@ -1,0 +1,25 @@
+.intro {
+background-color: #f2d9e6;
+padding: 50px;
+text-align: center;
+}
+
+.intro h1 {
+font-size: 36px;
+color: #d8629e;
+margin-bottom: 20px;
+}
+
+.intro p {
+font-size: 18px;
+color: #333;
+line-height: 1.5;
+}
+
+.intro {
+background-color: #FFC0CB; /* light pink background */
+padding: 20px; /* add padding to the content */
+text-align: center; /* center align the content */
+font-size: 24px; /* increase the font size for emphasis */
+font-weight: bold; /* add bold font weight for emphasis */
+}
